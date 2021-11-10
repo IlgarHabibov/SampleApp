@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MainButtonStyle" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="textAllCaps">false</item>
+        <item name="android:padding">13dp</item>
+        <item name="backgroundTint">@color/blue</item>
+        <item name="android:textAppearance">@style/MainButtonTextStyle</item>
+    </style>
+</resources>

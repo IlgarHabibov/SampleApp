@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="hintEnabled">false</item>
+        <item name="hintAnimationEnabled">false</item>
+    </style>
+
+    <style name="MainInputEditTextStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/futura_new_medium</item>
+        <item name="hintTextColor">@color/dark_gray</item>
+        <item name="hintTextAppearance">@style/MainInputHintStyle</item>
+    </style>
+
+</resources>

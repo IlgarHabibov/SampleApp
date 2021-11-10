@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarexSampleApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_next">Next</string>
+    <string name="text_hint_enter_name">Enter name</string>
+
+    <string name="error_text_empty">Please enter your name</string>
+    <string name="error_entered_text_length">Name must be at least 3 characters</string>
+</resources>

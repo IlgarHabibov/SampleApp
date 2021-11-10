@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <font android:font="@font/futura_new_medium"
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        app:font="@font/futura_new_medium"
+        app:fontStyle="normal"
+        app:fontWeight="500"
+        tools:targetApi="o" />
+
+    <font android:font="@font/futura_new_light"
+        android:fontStyle="normal"
+        android:fontWeight="200"
+        app:font="@font/futura_new_light"
+        app:fontStyle="normal"
+        app:fontWeight="200"
+        tools:targetApi="o" />
+
+</font-family>
